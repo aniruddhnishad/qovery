@@ -1,0 +1,11 @@
+---
+application:
+  name: "aniruddh"
+  project: "aniruddh"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-aniruddh"
+  routes:
+  - application_name: "aniruddh"
+    paths:
+    - "/*"
